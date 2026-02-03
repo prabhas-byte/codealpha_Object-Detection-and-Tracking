@@ -2,10 +2,8 @@
 
 Your webcam just became a smart eye — detects objects, draws boxes, labels them, and **tracks** them like a pro!
 
-<p align="center">
-  <img src="./screenshot-main.png" width="70%" alt="Live YOLOv8 detection + tracking in action">
   <br><b>People walk in → boxes appear → IDs stick → it never forgets who’s who</b>
-</p>
+
 
 ## ✨ Features
 
