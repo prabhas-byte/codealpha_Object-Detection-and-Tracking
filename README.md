@@ -20,8 +20,8 @@ Your webcam just became a smart eye — detects objects, draws boxes, labels the
 
 ## Screenshots
 
-
-
+![image alt](https://github.com/prabhas-byte/codealpha_Object-Detection-and-Tracking/blob/29e7d22a1df44295b0dc470635dfe4b80ab10007/Screenshot%202026-02-03%20131531.png)
+![image alt]()
 ## 🚀 Quick Start (2 minutes)
 
 ### 1. Install Dependencies (one-time)
